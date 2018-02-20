@@ -1,3 +1,4 @@
+console.log("Hi! THIS IS TEST!!!");
 const testStreams = require('../tests/test-streams');
 
 const defaultTestStreamUrl = testStreams['bbb'].url;
